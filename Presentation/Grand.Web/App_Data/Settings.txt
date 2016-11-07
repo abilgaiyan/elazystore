@@ -1,2 +1,0 @@
-DataProvider: mongodb
-DataConnectionString: mongodb://appharbor_z6q2xvqj:95efd0s4tqg0fjc72iunj4la35@ds049094.mlab.com:49094/appharbor_z6q2xvqj
