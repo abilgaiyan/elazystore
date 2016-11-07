@@ -1,0 +1,8 @@
+﻿Group: Tax providers
+FriendlyName: Tax By Country & State & Zip
+SystemName: Tax.CountryStateZip
+Version: 1.44
+SupportedVersions: 3.90
+Author: grandnode team, nopcommerce team
+DisplayOrder: 1
+FileName: Grand.Plugin.Tax.CountryStateZip.dll

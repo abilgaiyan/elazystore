@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Credit Card
+SystemName: Payments.PayPalDirect
+Version: 1.38
+SupportedVersions: 3.90
+Author: grandnode team, nopcommerce team
+DisplayOrder: 1
+FileName: Grand.Plugin.Payments.PayPalDirect.dll
