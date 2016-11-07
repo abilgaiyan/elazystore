@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.Plugin.DiscountRules.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.Web.Framework", "Presentation\Grand.Web.Framework\Grand.Web.Framework.csproj", "{75FD4163-333C-4DD5-854D-2EF294E45D94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.Admin", "Presentation\Grand.Web\Administration\Grand.Admin.csproj", "{152C761A-DD2E-4C1F-AF89-DFB2547A3BCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.XAdmin", "Presentation\Grand.Web\Administration\Grand.XAdmin.csproj", "{152C761A-DD2E-4C1F-AF89-DFB2547A3BCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.Plugin.Feed.Froogle", "Plugins\Grand.Plugin.Feed.Froogle\Grand.Plugin.Feed.Froogle.csproj", "{965A02F0-FC84-4AC4-91E4-79EADFC1CA9D}"
 EndProject
