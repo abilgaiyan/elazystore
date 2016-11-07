@@ -532,7 +532,6 @@
     <Content Include="Content\farbtastic\marker.png" />
     <Content Include="Content\farbtastic\mask.png" />
     <Content Include="Content\farbtastic\wheel.png" />
-    <Content Include="Content\files\ExportImport\Index.htm" />
     <Content Include="Content\files\Index.htm" />
     <Content Include="Content\Images\default-image.png" />
     <Content Include="Content\Images\MessageTemplate\img01.jpg" />
@@ -2737,6 +2736,7 @@
     <Content Include="Themes\GrandNodeTheme\Views\Profile\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Content\files\ExportImport\" />
     <Folder Include="Plugins\bin\" />
     <Folder Include="Scripts\kendo\2016.2.504\" />
   </ItemGroup>
