@@ -496,6 +496,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="App_Data\Localization\Upgrade\EN_360_370.nopres.xml" />
+    <Content Include="App_Data\Settings.txt" />
     <Content Include="Content\BBEditor\ed.js" />
     <Content Include="Content\BBEditor\images\bold.gif" />
     <Content Include="Content\BBEditor\images\code.gif" />
